@@ -1,4 +1,4 @@
----
+# New comment is added 
 AWSTemplateFormatVersion: '2010-09-09'
 Description: A CloudFormation template to create a VPC with networking components, an EC2 instance, and a simple web page
 
